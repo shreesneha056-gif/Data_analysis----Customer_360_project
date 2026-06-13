@@ -31,5 +31,6 @@ The execution steps compile raw transactional files down to unified customer beh
 ## 🔍 Core Engineered Consumer Features
 
 * **💰 Value
-* IMPORTANT :- RAW DATA(Customer_360_project) AND OBTAINED AND FILTER ARE IN SEPARATE ZIP FILES(Customer_360_project_answers)
+* IMPORTANT :- RAW DATA(Customer_360_project) AND OBTAINED AND FILTER ARE IN SEPARATE ZIP FILES(Customer_360_project_answers) DOWNLOAD IT TO VIEW COMPLETE FILE.
+
   
